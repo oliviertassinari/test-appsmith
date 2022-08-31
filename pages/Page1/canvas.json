@@ -693,16 +693,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_Person_location",
-              "name": "Person_location",
-              "confirmBeforeExecute": false,
-              "pluginType": "SAAS",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
               "id": "Page1_Get_lat_lang",
               "name": "Get_lat_lang",
               "confirmBeforeExecute": false,
